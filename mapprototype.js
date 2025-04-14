@@ -16,6 +16,7 @@ if(!Array.prototype.myMap){
       return result ;
     }
 
+    
 }
 
 
